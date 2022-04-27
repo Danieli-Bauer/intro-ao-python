@@ -1,5 +1,5 @@
 # ConstruDelas - Introdução ao Python
-### Nome: 
+### Nome: Danieli Bauer de Araujo
 
 ## Visão Geral
 Bem vinda ao repositório do curso ConstruDelas, módulo de Introdução ao Python.
